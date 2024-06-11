@@ -430,3 +430,18 @@ footer p {
     text-align: center;
 }
 
+.show-all-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.show-all-btn{
+    width: 10rem;
+    height: 3rem
+}
+
+.projects-arrow{
+    position: relative;
+    margin-left: 97%;
+}
